@@ -1,1 +1,15 @@
+missing semicolon#
+
+System.out.println("Hello")
+
+Wrong println Spelling 
+
+System.out.printl("Hello");
+
+missing closing brace
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello");
+
 
